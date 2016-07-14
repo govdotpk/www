@@ -1,2 +1,1 @@
-# www
-Web portal (www.hukumat.pk)
+# Web portal (stan.pk)
